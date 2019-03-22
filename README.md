@@ -1,2 +1,2 @@
 # Next.js CRUD
-Next.js + Mongdb  build simple project CRUD
+Next.js build simple project CRUD with json-server
