@@ -4,6 +4,7 @@
 /node_modules
 /server/node_modules
 /.pnp
+/server/.pnp
 .pnp.js
 
 # testing
@@ -11,6 +12,7 @@
 
 # production
 /build
+/server/build
 
 # misc
 .DS_Store
@@ -25,3 +27,4 @@ yarn-error.log*
 
 # vscode
 /.vscode
+/server/.vscode
