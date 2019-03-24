@@ -1,2 +1,2 @@
-# Next.js CRUD
-Next.js build simple project CRUD with json-server
+# Next.js Blog
+Next.js build simple project blog with json-server
