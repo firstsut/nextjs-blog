@@ -1,12 +1,12 @@
 {
-  "name": "NextJS CRUD",
+  "name": "nextjs-crud",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev" : "next",
-    "start" : "next start",
-    "build" : "next build",
+    "dev": "next",
+    "start": "next start",
+    "build": "next build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
