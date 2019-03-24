@@ -1,11 +1,14 @@
 import React,{Component} from 'react';
+import Layout from '../components/Layout';
 
 class Index extends Component{
     render(){
         return(
-            <div>
-                Index  Page
-            </div>
+            <Layout page="home" title="Blog">                      
+                <div>
+                    <h3>Blog application using Next.js</h3>
+                </div>
+            </Layout>
         )
     }
 }
